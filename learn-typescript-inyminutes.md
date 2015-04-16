@@ -1,7 +1,7 @@
 <!--
 name: learn-typescript-inyminutes
 version : 0.0.1
-title : "Learn Typescript in Y Minutes"
+title : "Learn TypeScript in Y Minutes"
 description: "This article will focus only on TypeScript extra syntax, as oposed to JavaScript."
 homepage : "http://learnxinyminutes.com/docs/typescript/"
 author : "Adam Bard"
